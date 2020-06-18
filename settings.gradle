@@ -1,0 +1,2 @@
+rootProject.name='Colorbar frame count'
+include ':app'
